@@ -1,0 +1,11 @@
+#game-world {
+  width: 90vmin;
+  height: 90vmin;
+  display: grid;
+  border: 2px solid black;
+  grid-template-rows: repeat(20, 1fr);
+  grid-template-columns: repeat(20, 1fr);
+  background-image: url(../image/sand.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,11 @@
+.snake {
+  background-color: brown;
+}
+
+.snake.head {
+  background-color: rgb(240, 42, 42);
+}
+
+.snake.tail {
+  background-color: black;
+}
